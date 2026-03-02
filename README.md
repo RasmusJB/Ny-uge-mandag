@@ -1,9 +1,8 @@
-# simulated-city-template
+# Energy distribution simulation
 
-This is a template repository.
-
-Get started by reading [docs/setup.md](docs/setup.md).
-See [docs/overview.md](docs/overview.md) for an overview of the base module content.
+### Definition
+Our project will simulate how power is produced through a Windturbine, connected to one House and a battery. When the House is fully powered the extra energy left produced from the Windturbine, will be stored in an external Battery. 
+When there is no wind, no new energy will be produced from the Windturbine, and the House will receive the stored power from the external Battery.
 
 ## Template for a project
 
